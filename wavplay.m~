@@ -1,0 +1,8 @@
+if nargin>1
+    fprintf('wavplot(wavFile \n');
+    return;
+end;
+
+[y, fs]=wavread(wavFile);
+sound(y,fs)
+end
