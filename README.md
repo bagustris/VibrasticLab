@@ -9,4 +9,4 @@ list of file:
 - wavplay: play wav file directly
 - bulkResample : Untuk meresample Fs puluhan/ratusan/ribuan file dalam sekali waktu
 - bulkw2s : untuk konversi dari wav ke raw (menghilangkan header) ke short, semua file wav dalam folder
-- 
+- matlab_range_freq : filter signal on bandpass filter
