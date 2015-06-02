@@ -8,5 +8,6 @@ if nargin>1
 end;
 
 [y, fs]=wavread(wavFile);
-plot(y)
+t=1/fs:1/fs:length(y)/fs;
+plot(t,y)
 end
