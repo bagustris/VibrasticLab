@@ -1,7 +1,7 @@
 % plot grafik TR
 % based on equation of transmibility
 
-col=hsv(10);
+col=flasg(10); % color, option:  hsv, hot, flag, pink.
 
 for j=1:4
     kesi=j*0.1;
