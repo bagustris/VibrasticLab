@@ -1,4 +1,4 @@
-% wavfft.m
+% fftwav.m
 %
 % An example Matlab script to demonstrate the use of the fft
 % function with WAV-file data.
